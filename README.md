@@ -1,7 +1,7 @@
 # Python Question 
 python interview questions 
 
-# Basic math 
+# Basic math ![](basic math)
 
  * SIMPLE MATH OPERATIONS IN PYTHON
    
