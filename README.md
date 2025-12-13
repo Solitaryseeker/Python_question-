@@ -5,5 +5,5 @@ python interview questions
 
  * SIMPLE MATH OPERATIONS IN PYTHON
    
-      PERFORM Addition , Subtraction , Multiplication , Division , Floor Division , Modulus , Power ,
+      PERFORM Addition , Subtraction , Multiplication , Division , Floor Division , Modulus , Power 
 
