@@ -2,4 +2,6 @@
 python interview questions 
 
 # Basic math 
-* Write a Python program that takes two numbers as input from the user and prints their sum.
+* # SIMPLE MATH OPERATIONS IN PYTHON 
+PERFORM Addition , Subtraction , Multiplication , Division , Floor Division , Modulus , Power ,
+
