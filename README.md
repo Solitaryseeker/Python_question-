@@ -2,7 +2,8 @@
 python interview questions 
 
 # Basic math
-* SIMPLE MATH OPERATIONS IN PYTHON
+* Simple math operations in python
   
   PERFORM Addition , Subtraction , Multiplication , Division , Floor Division , Modulus , Power 
 
+* Calculate Area of Triangle in python 
